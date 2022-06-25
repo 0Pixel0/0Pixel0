@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Nextjs and solidity
 - 💞️ I’m looking to collaborate on blochain and front-end Projects.
 - 📫 How to reach me-> ashutoshpunia690@gmail.com
+![Github stats](https://github-readme-stats.vercel.app/api?username=yourGithubUsername)
 
 <!---
 0Pixel0/0Pixel0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
